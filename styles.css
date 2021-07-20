@@ -1,0 +1,39 @@
+
+    body {
+    
+        
+
+        
+        background-color: #d8b6c3;
+background-image: url("https://i.pinimg.com/564x/fe/6e/6b/fe6e6b3490f06e8995dd33250da4ed09.jpg");
+background-blend-mode:screen;
+    
+    }
+    hr {
+      background-color: #d8b6c3;
+      border-style: dotted none none;
+      width: 7%;
+      border-color: #a82361;
+      border-width: 6px;
+
+    }
+    h1 {
+   
+        color: #a82361;
+      }
+    h2 {
+   
+      color: #a82361;
+    }
+    h3{
+      width: 300px ;
+     
+      color: #a82361;
+    }
+    img{
+      border: black;
+      border-radius: 5px;
+    }
+    
+  
+  
